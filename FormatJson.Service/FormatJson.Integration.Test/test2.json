@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "url": "https://www.google.com",
+      "path": "path_value_1",
+      "size": 1
+
+    },
+    {
+      "url": "https://www.illumina.com",
+      "path": "path_value_1",
+      "size": 2
+    }
+  ]
+}
