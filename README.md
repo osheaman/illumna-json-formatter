@@ -1,4 +1,4 @@
-# illumna-json-formatter
+# json-formatter
 illumna json formatter
 * input: json file or url to json file of the structure: 
 ```
